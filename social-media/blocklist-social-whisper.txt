@@ -10,3 +10,14 @@
 0.0.0.0 www.dialpad.com
 0.0.0.0 static.dialpadcdn.com
 0.0.0.0 www.static.dialpadcdn.com
+0.0.0.0 www.obitalk.com
+0.0.0.0 www1.obitalk.com
+0.0.0.0 prov.obitalk.com
+0.0.0.0 devpfs.obitalk.com
+0.0.0.0 storage.googleapis.com
+0.0.0.0 ubervoice.ubervoip.net
+0.0.0.0 turn.ubervoip.net
+0.0.0.0 uvwss.ubervoip.net
+0.0.0.0 legacy.dialpad.com
+0.0.0.0 dialpadcdn.com
+0.0.0.0 prov*.dialpad.com
