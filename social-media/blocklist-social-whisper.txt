@@ -19,3 +19,4 @@
 0.0.0.0 static.dialpadcdn.com
 0.0.0.0 prov*.dialpad.com
 0.0.0.0 *pusher.com
+0.0.0.0 oeiitp-edge.imh-internal.net
